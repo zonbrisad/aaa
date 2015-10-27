@@ -4,4 +4,6 @@
 
 void main() {
 	printf("Kalle");
+	
+	exit(0);
 }
